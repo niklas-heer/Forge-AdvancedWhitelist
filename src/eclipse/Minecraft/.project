@@ -18,17 +18,17 @@
 		<link>
 			<name>jars</name>
 			<type>2</type>
-			<locationURI>MCP_LOC/jars</locationURI>
-		</link>
-		<link>
-			<name>src</name>
-			<type>2</type>
-			<locationURI>MCP_LOC/src/minecraft</locationURI>
+			<location>/Users/nh/github/local/Forge-AdvancedWhitelist/src/jars</location>
 		</link>
 		<link>
 			<name>lib</name>
 			<type>2</type>
-			<locationURI>MCP_LOC/lib</locationURI>
+			<location>/Users/nh/github/local/Forge-AdvancedWhitelist/src/lib</location>
+		</link>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<location>/Users/nh/github/local/Forge-AdvancedWhitelist/src/src/minecraft</location>
 		</link>
 	</linkedResources>
 	<filteredResources>
